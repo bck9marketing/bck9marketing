@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure (Virtual Machine Setup)</b>
+- <b>Virtual Machine Seteup (Microsoft Azure)</b>
   - [Creating a Virtual Machine](https://github.com/bck9marketing/VM)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/bck9marketing/osticket-prereqs)
